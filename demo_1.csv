@@ -1,0 +1,11 @@
+name,device_type,device_role,site,rack,position,face,status,serial
+rcd-rtr-01,ISR4321,Router,Richardson,25Y,34,front,inventory, L23A4N8K4S 
+rcd-rtr-02,ISR4321,Router,Richardson,25Y,33,front,inventory,B6956JV2HP
+rcd-rtr-03,ISR4321,Router,Richardson,25Y,32,front,inventory,4D3H42NSZZ
+rcd-rtr-04,ISR4321,Router,Richardson,25Y,31,front,inventory,G5CYXXUBDH
+rcd-rtr-05,ISR4321,Router,Richardson,25Y,30,front,inventory,FEUDTK7K4C
+rcd-rtr-06,ISR4321,Router,Richardson,25Y,29,front,inventory,HT94WKFU5P
+rcd-rtr-07,ISR4321,Router,Richardson,25Y,28,front,inventory,74ADY528AF
+rcd-rtr-08,ISR4321,Router,Richardson,25Y,27,front,inventory,RSUJJ9B28Q
+rcd-rtr-09,ISR4321,Router,Richardson,25Y,26,front,inventory,A2WDBG67GA
+rcd-rtr-10,ISR4321,Router,Richardson,25Y,25,front,inventory,F5WRGEO934
